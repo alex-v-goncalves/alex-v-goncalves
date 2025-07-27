@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Alex Gonçalves
+### 👋 Olá! Eu sou o Alex Gonçalves
 
 Desenvolvedor backend apaixonado por tecnologia. Estou sempre buscando aprender coisas novas e compartilhar conhecimento.
 
