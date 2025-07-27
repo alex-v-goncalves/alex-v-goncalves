@@ -36,13 +36,6 @@ Desenvolvedor backend apaixonado por tecnologia. Estou sempre buscando aprender 
 
 - [https://www.linkedin.com/in/alex-valentim-goncalves](https://www.linkedin.com/in/alex-valentim-goncalves)
 
----
-
-### 🤓 Curiosidades
-
-- Fã de jogos de sobrevivência e RPGs
-- Crio aventuras de mesa com minha filha e esposa
-- Tenho dislexia e sou prova viva de que a tecnologia é para todos
 <!--
 **alex-v-goncalves/alex-v-goncalves** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 -->
