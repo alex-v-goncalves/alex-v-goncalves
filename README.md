@@ -2,7 +2,6 @@
 
 Desenvolvedor backend apaixonado por tecnologia. Estou sempre buscando aprender coisas novas e compartilhar conhecimento.
 
-#
 
 ### 🚀 Sobre mim
 
@@ -11,6 +10,7 @@ Desenvolvedor backend apaixonado por tecnologia. Estou sempre buscando aprender 
 - 🧠 Estudando: **Golang** e **Cloud**
 - 🎮 Curto jogar **ARK, Red Dead Redemption 2 e RPGs**
 - 📚 Em aprendizado constante
+<br />
 
 #
 
@@ -31,16 +31,20 @@ Desenvolvedor backend apaixonado por tecnologia. Estou sempre buscando aprender 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
 
 #
+
 
 ### 📫 Como me encontrar
 
 - Email: `seu@email.com`
 - [LinkedIn](https://www.linkedin.com/in/seuperfil)
 - [Meu Blog/Twitter/Instagram/etc.](https://...)
+<br />
 
 #
+
 
 ### ⚡ Curiosidades
 
