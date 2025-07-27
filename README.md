@@ -23,6 +23,8 @@ Desenvolvedor backend apaixonado por tecnologia. Estou sempre buscando aprender 
   <img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
   <img align="left" alt="IntelliJ IDEA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
   <img src="https://img.shields.io/badge/New%20Relic-008c99?style=for-the-badge&logo=new-relic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+
 
 
   <br />
