@@ -39,7 +39,10 @@ Desenvolvedor backend apaixonado por tecnologia. Estou sempre buscando aprender 
 - Fã de jogos de sobrevivência e RPGs
 - Crio aventuras de mesa com minha filha e esposa
 - Tenho dislexia e sou prova viva de que a tecnologia é para todos
-  <br />
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
 <!--
 **alex-v-goncalves/alex-v-goncalves** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 -->
