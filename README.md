@@ -10,7 +10,8 @@ Desenvolvedor backend apaixonado por tecnologia. Estou sempre buscando aprender 
 - 🧠 Estudando: **Golang** e **Cloud**
 - 🎮 Curto jogar **ARK, Red Dead Redemption 2 e RPGs**
 - 📚 Em aprendizado constante
-#
+
+---
 
 ### 🧰 Ferramentas
 <p align="left">
@@ -27,14 +28,14 @@ Desenvolvedor backend apaixonado por tecnologia. Estou sempre buscando aprender 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-
-#
+---
 
 ### 📫 Como me encontrar
 
 - Outlook: `alex.valentim.goncalves@outlook.com`
 - [Linkedin](https://www.linkedin.com/in/alex-valentim-goncalves)
-#
+
+---
 
 ### ⚡ Curiosidades
 
