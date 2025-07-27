@@ -14,6 +14,8 @@ Desenvolvedor backend apaixonado por tecnologia. Estou sempre buscando aprender 
 
 #
 
+<br />
+
 ### 🧰 Ferramentas
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -29,10 +31,13 @@ Desenvolvedor backend apaixonado por tecnologia. Estou sempre buscando aprender 
 
 #
 
+<br />
+
 ### 📫 Como me encontrar
 
-- Email: `alex.valentim.goncalves@outlook.com` / `alex.valentim.goncalves@gmail.com`
-- [LinkedIn](https://www.linkedin.com/in/alex-valentim-goncalves)
+- Outlook: `alex.valentim.goncalves@outlook.com`
+- GMail: `alex.valentim.goncalves@gmail.com`
+- [Linkedin](https://www.linkedin.com/in/alex-valentim-goncalves)
 <br />
 
 #
@@ -42,7 +47,7 @@ Desenvolvedor backend apaixonado por tecnologia. Estou sempre buscando aprender 
 - Fã de jogos de sobrevivência e RPGs
 - Crio aventuras de mesa com minha filha e esposa
 - Tenho dislexia e sou prova viva de que a tecnologia é para todos
-
+<br />
 <!--
 **alex-v-goncalves/alex-v-goncalves** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 -->
