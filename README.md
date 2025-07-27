@@ -34,7 +34,7 @@ Desenvolvedor backend apaixonado por tecnologia. Estou sempre buscando aprender 
 
 - [alex.valentim.goncalves@outlook.com](mailto:alex.valentim.goncalves@outlook.com)
 
-- [Linkedin](https://www.linkedin.com/in/alex-valentim-goncalves)
+- [https://www.linkedin.com/in/alex-valentim-goncalves](https://www.linkedin.com/in/alex-valentim-goncalves)
 
 ---
 
