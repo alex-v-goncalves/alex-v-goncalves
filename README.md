@@ -21,7 +21,9 @@ Desenvolvedor backend apaixonado por tecnologia. Estou sempre buscando aprender 
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
 <img align="left" alt="IntelliJ IDEA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
-<br />
+
+
+#
 ### 📫 Como me encontrar
 
 - Outlook: `alex.valentim.goncalves@outlook.com`
@@ -34,7 +36,7 @@ Desenvolvedor backend apaixonado por tecnologia. Estou sempre buscando aprender 
 - Fã de jogos de sobrevivência e RPGs
 - Crio aventuras de mesa com minha filha e esposa
 - Tenho dislexia e sou prova viva de que a tecnologia é para todos
-<br />
+  <br />
 <!--
 **alex-v-goncalves/alex-v-goncalves** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 -->
