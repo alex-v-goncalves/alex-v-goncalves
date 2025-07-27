@@ -32,12 +32,13 @@ Desenvolvedor backend apaixonado por tecnologia. Estou sempre buscando aprender 
 
 ### 📫 Como me encontrar
 
-- Outlook: `alex.valentim.goncalves@outlook.com`
+- 📧 [alex.valentim.goncalves@outlook.com](mailto:alex.valentim.goncalves@outlook.com)
+
 - [Linkedin](https://www.linkedin.com/in/alex-valentim-goncalves)
 
 ---
 
-### ⚡ Curiosidades
+### 🤓 Curiosidades
 
 - Fã de jogos de sobrevivência e RPGs
 - Crio aventuras de mesa com minha filha e esposa
