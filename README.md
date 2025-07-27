@@ -29,16 +29,13 @@ Desenvolvedor backend apaixonado por tecnologia. Estou sempre buscando aprender 
 
 #
 
-
 ### 📫 Como me encontrar
 
-- Email: `seu@email.com`
-- [LinkedIn](https://www.linkedin.com/in/seuperfil)
-- [Meu Blog/Twitter/Instagram/etc.](https://...)
+- Email: `alex.valentim.goncalves@outlook.com` / `alex.valentim.goncalves@gmail.com`
+- [LinkedIn](https://www.linkedin.com/in/alex-valentim-goncalves)
 <br />
 
 #
-
 
 ### ⚡ Curiosidades
 
