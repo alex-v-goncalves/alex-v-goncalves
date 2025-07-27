@@ -10,14 +10,9 @@ Desenvolvedor backend apaixonado por tecnologia. Estou sempre buscando aprender 
 - 🧠 Estudando: **Golang** e **Cloud**
 - 🎮 Curto jogar **ARK, Red Dead Redemption 2 e RPGs**
 - 📚 Em aprendizado constante
-<br />
-
 #
 
-<br />
-
 ### 🧰 Ferramentas
-
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -26,20 +21,13 @@ Desenvolvedor backend apaixonado por tecnologia. Estou sempre buscando aprender 
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
 <img align="left" alt="IntelliJ IDEA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
-
-<br />
-
 #
-
-<br />
 
 ### 📫 Como me encontrar
 
 - Outlook: `alex.valentim.goncalves@outlook.com`
 - GMail: `alex.valentim.goncalves@gmail.com`
 - [Linkedin](https://www.linkedin.com/in/alex-valentim-goncalves)
-<br />
-
 #
 
 ### ⚡ Curiosidades
