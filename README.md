@@ -42,7 +42,7 @@ Desenvolvedor backend apaixonado por tecnologia. Estou sempre buscando aprender 
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-v-goncalves&show_icons=true&theme=gruvbox)
 <!--
 **alex-v-goncalves/alex-v-goncalves** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 -->
