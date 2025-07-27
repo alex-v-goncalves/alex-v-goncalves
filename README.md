@@ -12,7 +12,7 @@ Desenvolvedor backend apaixonado por tecnologia. Estou sempre buscando aprender 
 - 🎮 Curto jogar **ARK, Red Dead Redemption 2 e RPGs**
 - 📚 Em aprendizado constante
 
-<br />
+#
 
 ### 🧰 Ferramentas
 
