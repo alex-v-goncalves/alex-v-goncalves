@@ -22,6 +22,8 @@ Desenvolvedor backend apaixonado por tecnologia. Estou sempre buscando aprender 
 <img alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
 <img alt="IntelliJ IDEA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 
+#
+
 ### 📫 Como me encontrar
 
 - Outlook: `alex.valentim.goncalves@outlook.com`
