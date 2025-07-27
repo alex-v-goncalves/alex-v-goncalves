@@ -22,6 +22,9 @@ Desenvolvedor backend apaixonado por tecnologia. Estou sempre buscando aprender 
   <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
   <img align="left" alt="IntelliJ IDEA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+  <img align="left" alt="New Relic" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/60/NewRelic-logo.svg"/>
+  <img align="left" alt="Splunk" width="30px" style="padding-right:10px;" src="https://www.splunk.com/content/dam/splunk2/images/logos/splunk-logo-og.png"/>
+
   <br />
 </div>
 
